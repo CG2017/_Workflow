@@ -25,30 +25,30 @@ _Имеется в виду не просто взять ГОТОВЫЕ форм
 *Внимание! В таблице написано RGB, а не sRGB. Внимательно копируйте формулы из wiki. Также в таблице написано CMY, а не CMYK.*
 
 1	RGB	CMY	HSV	L*u*v     
-2	RGB	CMY	HSV	Lu'v'
-3	RGB	CMY	HSV	L*a*b
-4	RGB	CMY	HSV	L*u*v
-5	RGB	CMY	HSV	Lu'v'
-6	RGB	CMY	HLS	L*a*b
-7	RGB	CMY	HLS	L*u*v
-8	RGB	CMY	HLS	Lu'v'
-9	RGB	CMY	HLS	L*a*b
-10	RGB	CMY	HLS	L*u*v
-11	RGB	CMY	HSV	Lu'v'
-12	RGB	CMY	HSV	L*a*b
-13	RGB	CMY	HSV	L*u*v
-14	RGB	CMY	HSV	Lu'v'
-15	RGB	CMY	HSV	L*a*b
-16	RGB	CMY	HLS	L*u*v
-17	RGB	CMY	HLS	Lu'v'
-18	RGB	CMY	HLS	L*a*b
-19	RGB	CMY	HLS	L*u*v
-20	RGB	CMY	HLS	Lu'v'
-21	RGB	CMY	HSV	L*a*b
-22	RGB	CMY	HSV	L*u*v
-23	RGB	CMY	HSV	Lu'v'
-24	RGB	CMY	HSV	L*a*b
-25	RGB	CMY	HSV	L*u*v
+2	RGB	CMY	HSV	Lu'v'     
+3	RGB	CMY	HSV	L*a*b     
+4	RGB	CMY	HSV	L*u*v     
+5	RGB	CMY	HSV	Lu'v'     
+6	RGB	CMY	HLS	L*a*b     
+7	RGB	CMY	HLS	L*u*v     
+8	RGB	CMY	HLS	Lu'v'     
+9	RGB	CMY	HLS	L*a*b     
+10	RGB	CMY	HLS	L*u*v     
+11	RGB	CMY	HSV	Lu'v'      
+12	RGB	CMY	HSV	L*a*b     
+13	RGB	CMY	HSV	L*u*v     
+14	RGB	CMY	HSV	Lu'v'      
+15	RGB	CMY	HSV	L*a*b     
+16	RGB	CMY	HLS	L*u*v     
+17	RGB	CMY	HLS	Lu'v'     
+18	RGB	CMY	HLS	L*a*b     
+19	RGB	CMY	HLS	L*u*v     
+20	RGB	CMY	HLS	Lu'v'     
+21	RGB	CMY	HSV	L*a*b      
+22	RGB	CMY	HSV	L*u*v     
+23	RGB	CMY	HSV	Lu'v'     
+24	RGB	CMY	HSV	L*a*b     
+25	RGB	CMY	HSV	L*u*v      
 
 # Тут оценки и коментарии
 
@@ -63,4 +63,6 @@ _Имеется в виду не просто взять ГОТОВЫЕ форм
 |Яковцева                       | 100                         | 100 | 100 |     |     |     |     |
 |-----------------|
 |Ромаш                          |100 |
-|Султонов                       |120|
+|Султонов                       |120 |
+|Венский                        | 50 |
+|Торопов                        |120(+background sliders)|
